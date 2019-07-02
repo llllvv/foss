@@ -19,3 +19,7 @@
 ### 2일차
 * PostgreSQL / PostGIS
 * Geoserver
+
+### 3일차
+* QGIS
+* python
