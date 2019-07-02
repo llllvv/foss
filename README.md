@@ -17,7 +17,8 @@
 * 오픈소스 서비스 환경 구축하기
 
 ### 2일차
-* PostgreSQL / PostGIS
+* PostgreSQL
+* PostGIS
 * Geoserver
 
 ### 3일차
